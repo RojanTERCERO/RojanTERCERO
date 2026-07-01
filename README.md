@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌱 I’m currently learning React/React Native<br>⚡ Fun fact : idk what im doing
+
 
 
 # 💻 Tech Stack:
