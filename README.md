@@ -22,8 +22,3 @@ phones report departures via SMS, with live updates surfaced to commuters throug
 - **Payroll Management System** — Python, CSV
 - **Flappy Bird Clone** — Java GUI
 - **Personal Portfolio Site** — HTML, CSS, JavaScript
-
-## 📫 Contact
-
-- Email: 
-- LinkedIn: [linkedin.com/in/rojikicx616](https://linkedin.com/in/rojikicx616)
