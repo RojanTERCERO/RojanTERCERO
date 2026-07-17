@@ -6,8 +6,8 @@ island barangays (Salapingao, Carael, Lomboy, Calmay, and Pugaro).
 
 ## 🛠️ Tech Stack
 
-Java · PHP · Python · JavaScript · TypeScript · Apex · HTML/CSS
-Laravel · React (Vite) · Salesforce LWC
+Java · PHP · Python · JavaScript · TypeScript · Apex 
+HTML/CSS · Laravel · React (Vite) · Salesforce LWC
 MySQL · Git & GitHub
 
 ## 🌊 Featured Project — RiverGO
