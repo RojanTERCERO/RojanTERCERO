@@ -25,6 +25,5 @@ phones report departures via SMS, with live updates surfaced to commuters throug
 
 ## 📫 Contact
 
-- Email: tercero.rojang21@gmail.com
+- Email: 
 - LinkedIn: [linkedin.com/in/rojikicx616](https://linkedin.com/in/rojikicx616)
-- GitHub: [github.com/RojanTERCERO](https://github.com/RojanTERCERO)
